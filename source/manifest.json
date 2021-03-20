@@ -7,7 +7,7 @@
   "homepage_url":"https://github.com/kaipee/thunderbird-theme-purple-praline",
   "applications":{
     "gecko":{
-      "id":"thunderbird@kaipee.co.uk",
+      "id":"purple.praline.thunderbird@kaipee.co.uk",
       "strict_min_version":"78.0"
     }
   },
