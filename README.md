@@ -22,6 +22,16 @@ For the easiest way to install and keep updated, install the add-on from within 
 
 #### Dev Notes
 
+##### Palettes
+
+**Palette 1**
+
+![Palette 1](img/palette-1.png)
+
+**Palette 2**
+
+![Palette 2](img/palette-2.png)
+
 **Main**
  * 330066
  * 666666
