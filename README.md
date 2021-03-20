@@ -28,9 +28,22 @@ For the easiest way to install and keep updated, install the add-on from within 
 
 ![Palette 1](img/palette-1.png)
 
+ * #461D7C
+ * #7549B1
+ * #53004B
+ * #53004B
+ * #FCECAE
+ * #E9B200
+
 **Palette 2**
 
 ![Palette 2](img/palette-2.png)
+
+* #421C52
+* #732C7B
+* #9C8AA5
+* #BDAEC6
+* #FFFFFF
 
 **Main**
  * 330066
