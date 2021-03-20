@@ -13,7 +13,7 @@ A purple theme for Thunderbird 78+.
 
 ### Mozilla Add-ons (recommended)
 
-For the easiest way to install and keep updated, install the add-on from within Thunderbird itself using the official Mozilla Add-on store .
+For the easiest way to install and keep updated, install the add-on from within Thunderbird itself using the official Mozilla Add-on store https://addons.thunderbird.net/en-US/thunderbird/addon/purple-praline/.
 
 ### Manual
 
