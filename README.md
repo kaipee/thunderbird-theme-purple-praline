@@ -31,7 +31,7 @@ For the easiest way to install and keep updated, install the add-on from within 
  * #461D7C
  * #7549B1
  * #53004B
- * #53004B
+ * #FDD023
  * #FCECAE
  * #E9B200
 

@@ -1,7 +1,7 @@
 {
   "manifest_version":2,
   "name":"Purple Praline",
-  "version":"0.0.1",
+  "version":"0.1.0",
   "description":"A purple theme for Thunderbird",
   "author":"kaipee",
   "homepage_url":"https://github.com/kaipee/thunderbird-theme-purple-praline",
@@ -19,8 +19,8 @@
   },
   "theme":{
     "colors":{
-      "button_background_active": "#9173A8",
-      "button_background_hover": "#9173A8",
+      "button_background_active": "#7549B1",
+      "button_background_hover": "#7549B1",
 
       "frame": "#200040",
       "frame_inactive": "#200040",
@@ -34,21 +34,21 @@
       "popup_highlight_text": "#FFFFFF",
       "popup_text": "#5C616C",
 
-      "sidebar": "#CCCCCC",
-      "sidebar_border": "#AAAAAA",
-      "sidebar_highlight": "#CC9933",
-      "sidebar_highlight_border": "#CC9933",
+      "sidebar": "#DCD5F7",
+      "sidebar_border": "#A99BBB",
+      "sidebar_highlight": "#FDD023",
+      "sidebar_highlight_border": "#A99BBB",
       "sidebar_highlight_text": "#000000",
       "sidebar_text": "#000000",
 
       "tab_background_separator": "rgba(255, 255, 255, 0.5)",
       "tab_background_text": "#AFB8C6",
-      "tab_line": "#CC9933",
-      "tab_loading": "#CC9933",
+      "tab_line": "#FDD023",
+      "tab_loading": "#FDD023",
       "tab_selected": "",
-      "tab_text": "#5C616C",
+      "tab_text": "#FFFFFF",
       
-      "toolbar": "#330066",
+      "toolbar": "#461D7C",
       "toolbar_bottom_separator": "#DCDFE3",
       "toolbar_field": "#FFFFFF",
       "toolbar_field_border": "#CFD6E6",
