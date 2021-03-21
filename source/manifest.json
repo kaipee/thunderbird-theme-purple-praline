@@ -56,7 +56,7 @@
       "toolbar_field_focus": "#FFFFFF",
       "toolbar_field_highlight": "#9173A8",
       "toolbar_field_highlight_text": "#FFFFFF",
-      "toolbar_field_text": "#FFFFFF",
+      "toolbar_field_text": "#000000",
       "toolbar_field_text_focus": "",
       "toolbar_text": "#FFFFFF",
       "toolbar_top_separator": "#272A34",
