@@ -1,7 +1,7 @@
 {
   "manifest_version":2,
   "name":"Purple Praline",
-  "version":"0.1.0",
+  "version":"0.1.1",
   "description":"A purple theme for Thunderbird",
   "author":"kaipee",
   "homepage_url":"https://github.com/kaipee/thunderbird-theme-purple-praline",
@@ -34,17 +34,17 @@
       "popup_highlight_text": "#FFFFFF",
       "popup_text": "#5C616C",
 
-      "sidebar": "#DCD5F7",
+      "sidebar": "#ebecf3",
       "sidebar_border": "#A99BBB",
-      "sidebar_highlight": "#FDD023",
+      "sidebar_highlight": "#FFE404",
       "sidebar_highlight_border": "#A99BBB",
       "sidebar_highlight_text": "#000000",
       "sidebar_text": "#000000",
 
       "tab_background_separator": "rgba(255, 255, 255, 0.5)",
       "tab_background_text": "#AFB8C6",
-      "tab_line": "#FDD023",
-      "tab_loading": "#FDD023",
+      "tab_line": "#FFE404",
+      "tab_loading": "#FFE404",
       "tab_selected": "",
       "tab_text": "#FFFFFF",
       
